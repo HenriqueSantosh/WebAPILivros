@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGo8QRWlVGj641botEm7HndW1JlzhydrnvxS10zJ/hxIU3YF+e/doag9Kw9a8bYnBFBuivvUMzz7dvREJ4UpBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henrique\\source\\repos\\Api.WebMusic\\Api.WebMusic.Services\\Api.WebMusic.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

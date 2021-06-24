@@ -1,0 +1,12 @@
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\bin\Debug\netcoreapp3.1\Api.WebMusic.Data.deps.json
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\bin\Debug\netcoreapp3.1\Api.WebMusic.Data.dll
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\bin\Debug\netcoreapp3.1\Api.WebMusic.Data.pdb
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\obj\Debug\netcoreapp3.1\Api.WebMusic.Data.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\obj\Debug\netcoreapp3.1\Api.WebMusic.Data.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\obj\Debug\netcoreapp3.1\Api.WebMusic.Data.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\obj\Debug\netcoreapp3.1\Api.WebMusic.Data.dll
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\obj\Debug\netcoreapp3.1\Api.WebMusic.Data.pdb
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\bin\Debug\netcoreapp3.1\Api.WebMusic.Domain.dll
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\bin\Debug\netcoreapp3.1\Api.WebMusic.Domain.pdb
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\obj\Debug\netcoreapp3.1\Api.WebMusic.Data.csproj.CopyComplete
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Data\obj\Debug\netcoreapp3.1\Api.WebMusic.Data.csproj.AssemblyReference.cache

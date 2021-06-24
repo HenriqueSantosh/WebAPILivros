@@ -1,0 +1,16 @@
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.deps.json
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.dll
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.pdb
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\obj\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\obj\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\obj\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\obj\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.dll
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\obj\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.pdb
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Data.dll
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Domain.dll
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Services.dll
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Data.pdb
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Domain.pdb
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\bin\Debug\netcoreapp3.1\Api.WebMusic.Services.pdb
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\obj\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.csproj.CopyComplete
+C:\Users\Henrique\source\repos\Api.WebMusic\Api.WebMusic.Crosscuting\obj\Debug\netcoreapp3.1\Api.WebMusic.Crosscuting.csproj.AssemblyReference.cache
